@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="icon" href="assets/logo/logo.ico">
+  <title>DaPhone</title>
+</head>
+
+<body>
+    <!--NAVIGATION BAR-->
+    <nav>
+        <div class="navigation-bar">
+            <div id="navigation-container">
+               <!-- <img class="logo" src="assets/logo/test-logo.png" width="120" height="110"> -->
+                <ul>
+                    <li><img class="logo" src="assets/logo/logo.png" width="120" height="110"></li>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="comparison.html">Comparison</a></li>
+                    <li><a href="gallery.html">Images</a></li>
+                    <li><a id="activeb" href="#">Videos</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    
+    <!--RAINBOW-->
+    <hr id="rainbow">
+    <br>
+    
+    <!--CONTENT-->
+    <section id="videosection">
+        <h1>Videos</h1>
+    
+    <div class="grid-row reverse video-gallery">
+     <input type="radio" value="1" name="video-list" id="video-1" checked="checked" /><label for="video-1">iPhone 13 Pro Max Display</label>
+     <input type="radio" value="2" name="video-list" id="video-2" /><label for="video-2">iPhone 8 Plus Display</label>
+
+     <!-- videos -->
+     <div class="video video-1">
+      <video width="640" height="480" muted autoplay loop>
+        <source src="vids/IMG_2675.mp4" type="video/mp4">
+      </video>
+     </div>
+    
+     <div class="video video-2">
+      <video width="640" height="480" muted autoplay loop>
+        <source src="vids/IMG_1085.mp4" type="video/mp4">
+      </video>
+     </div>
+    </div>
+    
+    </section>
+    
+    <br>
+
+
+<footer style="clear:both">
+  <p>Author: Daniel Pösinger</p>
+  <p><a id="mail" href="mailto:xposinger@stuba.sk">xposinger@stuba.sk</a></p>
+</footer>
+<!--END-->
+</body>
+</html>
