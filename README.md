@@ -17,7 +17,7 @@ Website is student-like constructed, theres nothing professional about this work
 
 ## Features
 - Index 😎
-- Comparison site ( "<table>" used ) 🥇
+- Comparison site🥇
 - Gallery ( basic image gallery + in php version its for-cycle generated ) 
 - Videos ( very interesting non-script solution I found on internet and successfully implemented )
 - Reviews ( not working in .html )
