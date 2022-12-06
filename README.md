@@ -12,6 +12,7 @@ Website is student-like constructed, theres nothing professional about this work
 - CSS styles on whole website 🟢
 - PHP implementation on whole site 🟢
 - PHP simplyfied the whole site and made it much more complex way ✔️
+- Somehow responsive, not ideal but it does something 🤐
 - Language changing [English:default, Slovak] 🟢
 
 ## Features
