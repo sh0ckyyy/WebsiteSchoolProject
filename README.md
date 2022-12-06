@@ -1,6 +1,6 @@
 # Comparison Website [HTML + CSS, implemented PHP later on]
 
-Website is student-like constructed, theres nothing professional about this work at all. All images and videos are taken by myself. Most of the code is self-work, but you may find some parts that from internet or other materials that I have used.
+Website is student-like constructed, theres nothing professional about this work at all. All images and videos are taken by myself. Most of the code is self-work, but you may find some parts that from internet or from other materials that I have used.
 
 ## Why am I sharing this?
 - It may help beginners to understand HTML + CSS better
