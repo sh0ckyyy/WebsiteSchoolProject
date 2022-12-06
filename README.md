@@ -13,11 +13,11 @@ Website is student-like constructed, theres nothing professional about this work
 - PHP implementation on whole site 🟢
 - PHP simplyfied the whole site and made it much more complex way ✔️
 - Somehow responsive, not ideal but it does something 🤐
-- Language changing [English:default, Slovak] 🟢
+- Language changing [English:default, Slovak] ( in PHP ) 🟢
 
 ## Features
 - Index 😎
-- Comparison site ( <table> used ) 🥇
+- Comparison site ( "<table>" used ) 🥇
 - Gallery ( basic image gallery + in php version its for-cycle generated ) 
 - Videos ( very interesting non-script solution I found on internet and successfully implemented )
 - Reviews ( not working in .html )
